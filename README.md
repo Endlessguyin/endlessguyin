@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=✦%20TGLSC%20✦&fontSize=50&animation=fadeIn&fontAlignY=32&desc=Official%20GitHub%20Organization&descAlignY=62&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=✦%20TGLSC%20✦&fontSize=50&animation=fadeIn&fontAlignY=32&desc=Official%20TGLSC%20Account&descAlignY=62&descSize=20" width="100%" />
 
   <h3>
     Managed by Marki (<code>@Marki_.1</code>) (Head Owner) and q8j (<code>@q8j.__</code>) (Co-Owner)
