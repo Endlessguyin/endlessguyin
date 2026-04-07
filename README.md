@@ -39,7 +39,7 @@
       </a>
     </td>
     <td width="33%" align="center" valign="top" style="border: none;">
-      <h3>Marki's API</h3>
+      <h3>TGLSC API</h3>
       <p>A powerful and flexible Discord RPC API for seamless integrations.</p>
       <br />
       <a href="https://api.marki.my">
